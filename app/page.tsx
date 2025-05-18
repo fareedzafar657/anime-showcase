@@ -13,7 +13,7 @@ export default function Home() {
       </div>
       {/* Animated Bars Behind Everything */}
       <div className="absolute inset-0 -z-40">
-        <img src={"/naruto.png"} alt='shadow' className='absolute inset-0 brightness-0 opacity-40 w-[1000px] h-auto z-50' />
+        <img src={"/naruto.png"} alt='shadow' className='absolute inset-0 brightness-0 opacity-40 w-[1000px] h-auto' />
         <SolidBars />
 
       </div>
